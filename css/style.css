@@ -110,7 +110,7 @@ body {
   background-size: cover;
 }
 .hero-content {
-  width: 1000px;
+  width: 70%;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -118,26 +118,26 @@ body {
   text-align: center;
 }
 .hero-content h1 {
-  font-size: 56px;
-  font-weight: 800;
+  font-size: 68px;
+  font-weight: 900;
   color: #ffffff;
   text-transform: uppercase;
-  letter-spacing: 1.5px;
-  margin-bottom: 12px;
+  letter-spacing: 3px;
+  margin-bottom: 30px;
 }
 .hero-content p {
-  font-size: 18px;
+  font-size: 21px;
   color: #e2e8f0;
   opacity: 0.9;
-  line-height: 1.6;
-  width: 1000px;
-  margin-bottom: 20px;
+  line-height: 1.8;
+  width: 100%;
+  margin-bottom: 45px;
 }
 .btn {
   display: inline-block;
-  width: 160px;
-  padding: 14px 0px;
-  font-size: 16px;
+  width: 170px;
+  padding: 16px 0px;
+  font-size: 18px;
   font-weight: 600;
   border-radius: 8px;
   transition: 0.6s;
