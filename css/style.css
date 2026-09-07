@@ -228,6 +228,7 @@ body {
 .welcome-card p {
   font-size: 15px;
   color: #3333338f;
+  height: 90px;
   line-height: 1.6;
   padding-bottom: 20px;
 }
@@ -407,6 +408,7 @@ body {
 .offer-card-p {
   font-size: 17px;
   color: #3333338f;
+  height: 115px;
   line-height: 1.6;
   padding-bottom: 30px;
 }
